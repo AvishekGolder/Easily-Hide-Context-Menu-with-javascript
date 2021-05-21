@@ -1,1 +1,1 @@
-# Easily-Hide-Context-Menu-with-javascript
+You can disable right click on your website by typing this code. 
